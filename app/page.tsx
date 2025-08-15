@@ -483,7 +483,7 @@ export default function Home() {
               <ProductCard
                 title="Squishy Mochi Animal Toys"
                 description="Irresistibly soft and squishy stress relievers. Perfect for all ages."
-                imageUrl="/squeeze-toygit pull-pink-paw.png"
+                imageUrl="/squeeze-toy-pink-paw.png"
                 specs={[
                   "Model: QRT-TPR01",
                   "Material: TPR",
