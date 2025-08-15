@@ -4,8 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Yiwu Qiran Toy - Innovative Sensory Play',
+  description: 'Discover our vibrant collection of slime, soft clay, and TPR stress relief toys. We are the direct factory source for your creative toy needs.',
   generator: 'v0.app',
 }
 
